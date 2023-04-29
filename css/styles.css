@@ -575,7 +575,7 @@ header {
 /* =6. Background Images
 --------------------------------------------------------------------------------------------------------*/
 .background-image1 {
-	background: url(../images/fullscreen07.jpg) no-repeat center;
+	background: url(../images/lifestyle03-lg.jpg) no-repeat center;
 	height: 100%;
 	display: block;
 	width: 100%;
@@ -589,7 +589,7 @@ header {
 	background-size: cover;
 }
 .background-image2 {
-	background: url(../images/fullscreen23.jpg) no-repeat center;
+	background: url(../images/Handknotted14.jpg) no-repeat center;
 	height: 100%;
 	display: block;
 	width: 100%;
@@ -603,7 +603,7 @@ header {
 	background-size: cover;
 }
 .background-image3 {
-	background: url(../images/fullscreen12.jpg) no-repeat center;
+	background: url(../images/Handtufted05.jpg) no-repeat center;
 	height: 100%;
 	display: block;
 	width: 100%;
